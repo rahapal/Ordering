@@ -102,7 +102,7 @@ class _CustomBoxState extends State<CustomBox> {
                     child: Icon(
                       Icons.favorite_border_outlined,
                       color: Colors.black,
-                      size: 15,
+                      size: 18,
                     ),
                   ),
                 ),
@@ -171,7 +171,7 @@ class _CustomBoxState extends State<CustomBox> {
                         const Icon(
                           Icons.location_on,
                           color: Color(0xFF03528A),
-                          size: 16,
+                          size: 18,
                         ),
                         const SizedBox(width: 4),
                         Text(
@@ -186,7 +186,7 @@ class _CustomBoxState extends State<CustomBox> {
                     const Icon(
                       Icons.gps_fixed,
                       color: Color(0xFF03528A),
-                      size: 16,
+                      size: 18,
                     ),
                   ],
                 ),
@@ -196,7 +196,7 @@ class _CustomBoxState extends State<CustomBox> {
                     const Icon(
                       Icons.phone,
                       color: Color(0xFF03528A),
-                      size: 16,
+                      size: 18,
                     ),
                     const SizedBox(width: 4),
                     Text(
