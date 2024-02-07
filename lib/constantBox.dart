@@ -308,7 +308,7 @@ class _CustomBoxState extends State<CustomBox> {
                         ),
                         const SizedBox(width: 10),
                         Text(
-                          'Book Now',
+                          'Visit Shop',
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 16,
