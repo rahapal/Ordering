@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ordering/dashboard.dart';
 import 'package:ordering/ordering.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class myApp extends StatelessWidget {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'My App',
-      home: Ordering(),
+      home: Dashboard(),
     );
   }
 }
